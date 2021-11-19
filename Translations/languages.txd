@@ -1000,6 +1000,51 @@ You will need to enter this key again in any other computer that you want to use
 		<text key="Yes">Yes</text>
 		<text key="You have the last version">You have the last version</text>
 	</culture>
+	<culture name="es">
+		<text key="__LANGUAGE_FONT__">Segoe UI</text>
+		<text key="_30_DAYS_TRIAL_EXPIRED_AND_MUST_PURCHASE_MESSAGE_TEXT_">El periodo de pruebas de 30 días expiró, y no se puede utilizar el software sin comprarlo.
+
+
+¿Te gustaría comprar una licencia vía Microsoft Store?</text>
+		<text key="Tx:date.month day">d/M</text>
+		<text key="Tx:date.month day.abbr">d MMM</text>
+		<text key="Tx:date.month day.long">d MMMM</text>
+		<text key="Tx:date.month day.tab">dd/MM</text>
+		<text key="Tx:date.year month">M/yyyy</text>
+		<text key="Tx:date.year month.tab">MM/yyyy</text>
+		<text key="Tx:date.year month day">d/M/yyyy</text>
+		<text key="Tx:date.year month day.long">d' de 'MMMM' de 'yyyy</text>
+		<text key="Tx:date.year month day.tab">dd/MM/yyyy</text>
+		<text key="Tx:enum.and.combiner">, </text>
+		<text key="Tx:enum.and.last combiner"> y </text>
+		<text key="Tx:enum.or.combiner">, </text>
+		<text key="Tx:enum.or.last combiner"> o </text>
+		<text key="Tx:number.group separator"> </text>
+		<text key="Tx:number.group separator threshold">1</text>
+		<text key="Tx:number.negative">−</text>
+		<text key="Tx:number.ordinal">{#}.º</text>
+		<text key="Tx:number.ordinal" count="1" mod="10">{#}.ᵉʳ</text>
+		<text key="Tx:number.ordinal" count="3" mod="10">{#}.ᵉʳ</text>
+		<text key="Tx:number.ordinal" count="11" mod="100">{#}.º</text>
+		<text key="Tx:number.ordinal" count="13" mod="100">{#}.º</text>
+		<text key="Tx:number.ordinal f">{#}.ª</text>
+		<text key="Tx:number.unit separator"> </text>
+		<text key="Tx:quote begin">«</text>
+		<text key="Tx:quote end">»</text>
+		<text key="Tx:quote nested begin">‹</text>
+		<text key="Tx:quote nested end">›</text>
+		<text key="Tx:time.hour minute">H:mm</text>
+		<text key="Tx:time.hour minute.tab">HH:mm</text>
+		<text key="Tx:time.hour minute second.tab">HH:mm:ss</text>
+		<text key="Tx:time.never">nunca</text>
+		<text key="Tx:time.now">ahora</text>
+		<text key="Tx:time.relative">en {interval}</text>
+		<text key="Tx:time.relative neg">hace {interval}</text>
+		<text key="Tx:time.relative span">{interval} más tarde</text>
+		<text key="Tx:time.relative span neg">{interval} antes</text>
+		<text key="Tx:time.span">durante {interval}</text>
+		<text key="Tx:time.span neg">desde hace {interval}</text>
+	</culture>
 	<culture name="zh-CN">
 		<text key="__LANGUAGE_FONT__">Microsoft YaHei</text>
 		<text key="_30 days trial started">30 天试用已开始!</text>
