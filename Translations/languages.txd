@@ -1002,10 +1002,24 @@ You will need to enter this key again in any other computer that you want to use
 	</culture>
 	<culture name="es">
 		<text key="__LANGUAGE_FONT__">Segoe UI</text>
+		<text key="_30 days trial started">¡El periodo de prueba de 30 días comenzó!</text>
 		<text key="_30_DAYS_TRIAL_EXPIRED_AND_MUST_PURCHASE_MESSAGE_TEXT_">El periodo de pruebas de 30 días expiró, y no se puede utilizar el software sin comprarlo.
 
 
 ¿Te gustaría comprar una licencia vía Microsoft Store?</text>
+		<text key="_30_DAYS_TRIAL_EXPIRED_MESSAGE_TEXT_">El periodo de pruebas de 30 días ha expirado y múltiples características han sido deshabilitadas, y el software ya no debería ser usado en un ambiente comercial.
+
+
+¿Te gustaría comprar una licencia ahora?</text>
+		<text key="_30_DAYS_TRIAL_EXPIRED_NOTIFICATION_MESSAGE_" acceptpunctuation="true">Múltiples características han sido deshabilitadas, y el software ya no debería ser usado en un ambiente comercial.
+
+Clic aquí para comprar o poner una llave de activación</text>
+		<text key="_30_DAYS_TRIAL_STARTED_NOTIFICATION_MESSAGE_" acceptpunctuation="true">Durante estos 30 días, toda la funcionalidad de WindowTop está desbloqueada y puedes usarlo en un ambiente comercial</text>
+		<text key="_ABOUT_DESCRIPTION_">WindowTop SW habilita que puedas administrar ventanas de manera práctica y eficiente con múltiples increíbles funciones.
+
+Con WindowTop tú puedes fácilmente fijar ventanas por encima con un clic o vía teclas de acceso rápido. Además. WindowTop también probé de un único set de características tales como el modo oscuro para cualquier ventana, modo PIP para cualquier ventana, opacidad, clic a través de ventanas, y más.
+
+El objetivo de este producto es ayudarte a ser más productivo en tu computadora administrando sus ventanas de manera eficiente</text>
 		<text key="Tx:date.month day">d/M</text>
 		<text key="Tx:date.month day.abbr">d MMM</text>
 		<text key="Tx:date.month day.long">d MMMM</text>
